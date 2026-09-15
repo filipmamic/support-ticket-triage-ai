@@ -1,0 +1,51 @@
+ticket_id,submitted_at,requester,subject,description
+T-1001,2026-08-18 11:00,user001@example-corp.test,Cannot connect to company database,"Getting a timeout error whenever I try to connect to the reporting database from home. This is important deadline, please help soon."
+T-1002,2026-09-04 09:00,user002@example-corp.test,Slow computer performance,"My machine has been extremely slow for the past few days, especially when opening Excel or the browser. This is urgent, please help soon."
+T-1003,2026-08-02 09:00,user003@example-corp.test,Screen sharing not working in meetings,"When I try to share my screen in video calls, participants just see a black screen."
+T-1004,2026-08-02 16:00,user004@example-corp.test,Shared drive access denied,"I lost access to the 'Finance' shared drive folder after the recent permissions update. I need it back for reporting. This is client-facing, please help soon."
+T-1005,2026-09-04 14:00,user005@example-corp.test,Shared drive access denied,I lost access to the 'Finance' shared drive folder after the recent permissions update. I need it back for reporting.
+T-1006,2026-08-18 08:00,user006@example-corp.test,Slow computer performance,"My machine has been extremely slow for the past few days, especially when opening Excel or the browser."
+T-1007,2026-08-28 13:00,user007@example-corp.test,Invoice system access issue,"I can view invoices in the system but can't approve them anymore, even though my role hasn't changed."
+T-1008,2026-08-07 09:00,user008@example-corp.test,Email going to spam for external clients,"Clients are telling me my emails are landing in their spam folder. This started after the domain change. This is can't work, please help soon."
+T-1009,2026-09-08 12:00,user009@example-corp.test,Software update broke reporting tool,"After the last update, the internal reporting dashboard shows a blank page instead of loading data. This is can't work, please help soon."
+T-1010,2026-09-04 09:00,user010@example-corp.test,Laptop won't turn on,"My laptop was working fine yesterday, now it won't power on at all. No lights, no fan noise. Battery is charged."
+T-1011,2026-09-10 17:00,user011@example-corp.test,Software update broke reporting tool,"After the last update, the internal reporting dashboard shows a blank page instead of loading data. This is can't work, please help soon."
+T-1012,2026-08-05 08:00,user012@example-corp.test,Wi-Fi keeps dropping in conference room B,During client calls in conference room B the Wi-Fi disconnects randomly. Very disruptive during meetings.
+T-1013,2026-08-06 11:00,user013@example-corp.test,Phishing email reported,"I received a suspicious email asking to verify my password. Flagging it in case others got it too. This is can't work, please help soon."
+T-1014,2026-08-30 18:00,user014@example-corp.test,Need software license activated,We just installed the new design software but it's asking for a license key I don't have. Can someone provision one?
+T-1015,2026-08-14 18:00,user015@example-corp.test,Wi-Fi keeps dropping in conference room B,"During client calls in conference room B the Wi-Fi disconnects randomly. Very disruptive during meetings. This is can't work, please help soon."
+T-1016,2026-08-05 17:00,user016@example-corp.test,Email going to spam for external clients,Clients are telling me my emails are landing in their spam folder. This started after the domain change.
+T-1017,2026-08-16 10:00,user017@example-corp.test,Cannot connect to company database,"Getting a timeout error whenever I try to connect to the reporting database from home. This is important deadline, please help soon."
+T-1018,2026-09-10 16:00,user018@example-corp.test,Two-factor authentication not sending codes,I'm not receiving the SMS code when logging in remotely. Tried resending three times.
+T-1019,2026-08-04 11:00,user019@example-corp.test,Slow computer performance,"My machine has been extremely slow for the past few days, especially when opening Excel or the browser."
+T-1020,2026-08-26 12:00,user020@example-corp.test,Laptop won't turn on,"My laptop was working fine yesterday, now it won't power on at all. No lights, no fan noise. Battery is charged."
+T-1021,2026-08-21 11:00,user021@example-corp.test,VPN keeps disconnecting,"Every 10-15 minutes my VPN connection drops and I have to reconnect. Started happening this week, was fine before. This is client-facing, please help soon."
+T-1022,2026-08-30 10:00,user022@example-corp.test,Cannot connect to company database,Getting a timeout error whenever I try to connect to the reporting database from home.
+T-1023,2026-09-05 16:00,user023@example-corp.test,Email going to spam for external clients,"Clients are telling me my emails are landing in their spam folder. This started after the domain change. This is important deadline, please help soon."
+T-1024,2026-08-28 17:00,user024@example-corp.test,Email going to spam for external clients,Clients are telling me my emails are landing in their spam folder. This started after the domain change.
+T-1025,2026-08-09 16:00,user025@example-corp.test,Software update broke reporting tool,"After the last update, the internal reporting dashboard shows a blank page instead of loading data."
+T-1026,2026-08-08 10:00,user026@example-corp.test,Backup failed notification,"I got an automated email saying my nightly backup failed last night. Not sure what to do next. This is urgent, please help soon."
+T-1027,2026-08-28 17:00,user027@example-corp.test,Cannot connect to company database,"Getting a timeout error whenever I try to connect to the reporting database from home. This is important deadline, please help soon."
+T-1028,2026-09-08 15:00,user028@example-corp.test,VPN keeps disconnecting,"Every 10-15 minutes my VPN connection drops and I have to reconnect. Started happening this week, was fine before."
+T-1029,2026-09-05 08:00,user029@example-corp.test,Mobile device not syncing email,My phone stopped syncing company email since this morning. Already tried removing and re-adding the account.
+T-1030,2026-09-04 12:00,user030@example-corp.test,Phishing email reported,I received a suspicious email asking to verify my password. Flagging it in case others got it too.
+T-1031,2026-08-08 12:00,user031@example-corp.test,Invoice system access issue,"I can view invoices in the system but can't approve them anymore, even though my role hasn't changed."
+T-1032,2026-08-17 16:00,user032@example-corp.test,Requesting admin rights to install software,"I need to install a data visualization tool for a project but don't have admin rights on my laptop. This is urgent, please help soon."
+T-1033,2026-09-10 12:00,user033@example-corp.test,Invoice system access issue,"I can view invoices in the system but can't approve them anymore, even though my role hasn't changed. This is urgent, please help soon."
+T-1034,2026-08-13 10:00,user034@example-corp.test,Cannot connect to company database,Getting a timeout error whenever I try to connect to the reporting database from home.
+T-1035,2026-09-04 16:00,user035@example-corp.test,Wi-Fi keeps dropping in conference room B,During client calls in conference room B the Wi-Fi disconnects randomly. Very disruptive during meetings.
+T-1036,2026-09-01 08:00,user036@example-corp.test,Can't log into email,I've tried resetting my password twice but I still can't access my company email account. Getting an 'invalid credentials' error every time.
+T-1037,2026-08-20 11:00,user037@example-corp.test,Need software license activated,We just installed the new design software but it's asking for a license key I don't have. Can someone provision one?
+T-1038,2026-08-06 09:00,user038@example-corp.test,Laptop won't turn on,"My laptop was working fine yesterday, now it won't power on at all. No lights, no fan noise. Battery is charged. This is client-facing, please help soon."
+T-1039,2026-08-05 16:00,user039@example-corp.test,Need external hard drive encrypted,Compliance asked me to get my external backup drive encrypted before using it for client data.
+T-1040,2026-08-31 16:00,user040@example-corp.test,Invoice system access issue,"I can view invoices in the system but can't approve them anymore, even though my role hasn't changed. This is important deadline, please help soon."
+T-1041,2026-09-08 14:00,user041@example-corp.test,Request for new monitor,My current monitor has a flickering issue. Could I get a replacement or a second monitor added to my desk?
+T-1042,2026-08-13 12:00,user042@example-corp.test,Shared drive access denied,I lost access to the 'Finance' shared drive folder after the recent permissions update. I need it back for reporting.
+T-1043,2026-08-24 15:00,user043@example-corp.test,Software update broke reporting tool,"After the last update, the internal reporting dashboard shows a blank page instead of loading data."
+T-1044,2026-08-16 11:00,user044@example-corp.test,Mobile device not syncing email,My phone stopped syncing company email since this morning. Already tried removing and re-adding the account.
+T-1045,2026-09-07 16:00,user045@example-corp.test,VPN keeps disconnecting,"Every 10-15 minutes my VPN connection drops and I have to reconnect. Started happening this week, was fine before."
+T-1046,2026-08-01 09:00,user046@example-corp.test,Slow computer performance,"My machine has been extremely slow for the past few days, especially when opening Excel or the browser."
+T-1047,2026-08-15 09:00,user047@example-corp.test,Teams calls dropping mid-meeting,My Teams calls have been dropping every 20 minutes or so for the last two days.
+T-1048,2026-08-05 16:00,user048@example-corp.test,Laptop won't turn on,"My laptop was working fine yesterday, now it won't power on at all. No lights, no fan noise. Battery is charged."
+T-1049,2026-09-01 11:00,user049@example-corp.test,Slow computer performance,"My machine has been extremely slow for the past few days, especially when opening Excel or the browser."
+T-1050,2026-09-06 15:00,user050@example-corp.test,Access request for new project folder,"Could someone grant me access to the 'Q4-Rollout' project folder on the shared server? This is client-facing, please help soon."
